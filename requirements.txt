@@ -1,0 +1,5 @@
+streamLit
+groq
+google-auth
+google-auth-oauthLib
+google-api-python-client
