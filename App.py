@@ -2,7 +2,7 @@ import streamlit as st
 from groq import Groq
 st.set_page_config("Hussian Content Generator",layout="wide")
 st.title("Hussian- content generator")
-st.image("")
+st.image("IMG_20241025_190349_617.webp")
 client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 # Get Product Name and Audience for That Product
